@@ -1,3 +1,5 @@
+// Author : Liam McArdle
+
 #include <iostream>
 #include "project_1.hpp"
 
